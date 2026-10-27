@@ -1,0 +1,124 @@
+* Sat Jul 25 2026 Mikko Tenhunen <mikko.tenhunen@kiinteistomestarit.com> 0.2-1
+- Päivitetty sovelluksen versioksi 0.2
+- Uudistettu kuukausikalenterin näkymä
+- Korjattu kalenterin tasaus, kun viikkonumerot ovat pois käytöstä
+- Lisätty ISO-viikkonumeroiden näyttöasetus
+- Lisätty pyhäpäivien värin valinta
+- Lisätty liputuspäivien värin valinta
+- Lisätty viikonloppujen korostusasetus
+- Lisätty tämän päivän korostusasetus
+- Lisätty menneiden päivien himmennysasetus
+- Lisätty suuremman kalenterinäkymän asetus
+- Lisätty käyttäjäasetusten pysyvä tallennus
+- Lisätty suomalaisen kalenterikäytännön mukainen maanantaista alkava viikko
+- Lisätty dynaaminen seuraavan pyhäpäivän laskenta
+- Lisätty dynaaminen seuraavan liputuspäivän laskenta
+- Lisätty pääsiäisen ja siihen liittyvien liikkuvien pyhäpäivien laskenta
+- Lisätty juhannuspäivän vuosittainen laskenta
+- Lisätty pyhäinpäivän vuosittainen laskenta
+- Lisätty tarkat päivämäärät ja viikonpäivät pyhäpäiville
+- Lisätty vuosivalinta pyhäpäivien ja liputuspäivien näkymiin
+- Lisätty pyhäpäivien ja aattopäivien erottelu
+- Lisätty pyhäpäivien omat tietosivut
+- Lisätty liputuspäivien omat tietosivut
+- Lisätty juhla- ja liputuspäivien merkitysten kuvaukset
+- Lisätty hakutuloksista avautuvat päivien tietosivut
+- Poistettu erillinen haku liputuspäiväsivulta
+- Uudistettu pyhä- ja liputuspäivien yhteinen hakusivu
+- Lisätty virallisten ja vakiintuneiden liputuspäivien erottelu
+- Lisätty äitienpäivä ja isänpäivä virallisiin liputuspäiviin
+- Lisätty vaalipäivien liputustiedot
+- Lisätty vaalipäivät Vuoden pyhäpäivät -sivulle
+- Lisätty vuoden 2027 eduskuntavaalien vaalipäivä 18.4.2027
+- Lisätty vuoden 2029 alue- ja kuntavaalien vaalipäivä 15.4.2029
+- Lisätty vuoden 2029 Euroopan parlamentin vaalien vaalipäivä 10.6.2029
+- Lisätty vuoden 2030 presidentinvaalin vaalipäivä 27.1.2030
+- Lisätty vuoden 2031 eduskuntavaalien vaalipäivä 6.4.2031
+- Lisätty vaalipäiville omat selitystekstit
+- Lisätty vaalipäiville virallisen liputuspäivän merkintä
+- Lisätty vaalipäiville Suomen lipun kuvake
+- Lisätty tasavallan presidentin toimeenastumispäivää koskeva tieto
+- Lisätty vuosittain suositeltuja liputuspäiviä koskeva huomautus
+- Lisätty oikea Suomen lipun PNG-kuva
+- Lisätty Euroopan unionin lipun PNG-kuva
+- Lisätty Suomen lippu pyhäpäivien ja liputuspäivien näkymiin
+- Lisätty Suomen lippu liputuspäivän tietosivulle
+- Lisätty Suomen lippu pyhäpäiville, jotka ovat samalla virallisia liputuspäiviä
+- Lisätty liputuspäivätieto pyhäpäivän tarkennussivulle
+- Lisätty Made in Finland- ja Made in Europe -merkinnät
+- Siirretty sovelluksen tiedot omalle Tietoa sovelluksesta -sivulle
+- Lisätty version 0.2 muutosloki Tietoa-sivulle
+- Päivitetty tietosuojaseloste
+- Päivitetty sovelluksen verkkosivun osoite
+- Yhtenäistetty sivujen vetovalikot
+- Lisätty ilmoitusasetukset
+- Lisätty käynnistyksen yhteydessä julkaistavat ilmoitukset
+- Lisätty ilmoitusten testipainike
+- Lisätty Nemo Configuration -moduulin pakettiriippuvuus
+- Lisätty Nemo Notifications -moduulin pakettiriippuvuus
+- Korjattu sovelluksen kansikortti
+- Lisätty seuraavan pyhäpäivän näyttäminen kansikortissa
+- Lisätty seuraavan liputuspäivän näyttäminen kansikortissa
+- Lisätty pyhäpäivien ja liputuspäivien laskenta kansikorttiin
+- Lisätty Suomen lippu kansikortin liputuspäivän tietoihin
+- Lisätty kansikortin tietojen automaattinen päivitys
+- Lisätty käyttöliittymätekstien qsTr-käännöstuki
+- Päivitetty FirstPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty FlagDaysPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty SearchPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty SettingsPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty YearHolidaysPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty DayDetailPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty AboutPage-sivun käyttäjälle näkyvät tekstit käännettäviksi
+- Päivitetty CoverPage-kansikortin tekstit käännettäviksi
+- Lisätty viikonpäivien ja kuukausien nimien käännöstuki
+- Lisätty viikonpäivien ja viikkonumeron lyhenteiden käännöstuki
+- Lisätty pyhäpäivien, aattopäivien ja liputuspäivien nimien käännöstuki
+- Lisätty vaalipäivien nimien ja kuvausten käännöstuki
+- Lisätty päivien merkitysten ja kuvausten käännöstuki
+- Lisätty Qt LinguistTools -rakennustuki
+- Lisätty TS-käännöstiedostojen automaattinen tunnistaminen
+- Lisätty TS-tiedostojen automaattinen muuntaminen QM-tiedostoiksi
+- Lisätty QM-käännöstiedostojen asentaminen sovelluksen datahakemistoon
+- Lisätty mahdollisuus usean kielipaketin käyttämiseen
+- Säilytetty suomi käyttöliittymän lähdekielenä fi_FI; erillistä suomen QM-pakettia ei tarvita
+- Lisätty englannin kielipaketti en_GB
+- Lisätty ruotsin kielipaketti sv_SE
+- Lisätty saksan kielipaketti de_DE
+- Lisätty viron kielipaketti et_EE
+- Lisätty norjan bokmålin kielipaketti nb_NO
+- Lisätty tanskan kielipaketti da_DK
+- Lisätty ranskan kielipaketti fr_FR
+- Lisätty espanjan kielipaketti es_ES
+- Lisätty italian kielipaketti it_IT
+- Lisätty ukrainan kielipaketti uk_UA
+- Lisätty venäjän kielipaketti ru_RU
+- Lisätty yleisten käyttöliittymätekstien käännökset tuetuille kielille
+- Lisätty viikonpäivien, kuukausien ja kalenterilyhenteiden käännökset
+- Merkitty tarkistusta vaativat pitkät käännökset keskeneräisiksi
+- Lisätty qt5-qttools-linguist-rakennusriippuvuus
+- Lisätty käännöstiedostot Qt Creatorin projektipuuhun
+- Lisätty kehitystyökalu qsTr-merkintöjen päivittämiseen
+- Päivitetty CMakeLists.txt uusille QML-sivuille, kuvatiedostoille ja käännöksille
+- Lisätty uusien TS-kielitiedostojen automaattinen tunnistaminen CMake-rakennuksessa
+- Korjattu CMake-generaattorilausekkeen HTML-merkit
+- Poistettu tarpeeton automaattisen muutoshistorian changes.run-viittaus
+- Päivitetty RPM SPEC -tiedoston versioksi 0.2
+- Päivitetty Desktop-tiedosto
+- Säilytetty sovelluksen kalenteri- ja päivätietojen käsittely offline-tilassa
+- Valmisteltu sovellus kahdentoista käyttöliittymäkielen käyttämiseen
+
+* Wed Jul 22 2026 Mikko Tenhunen <mikko.tenhunen@kiinteistomestarit.com> 0.1-1
+- Ensimmäinen julkaisu
+- Kalenteri- ja pyhäpäiväsovellus Sailfish OS:lle
+- Vuoden pyhäpäivien listaus
+- Suomen liputuspäivien listaus
+- Hakutoiminto pyhä- ja liputuspäiville
+- Asetussivu
+- Sovelluksen kansikortti
+- Kuukausinäkymä
+- Viikkonumerot
+- Tuki vuosille 2020–2100
+- Haku kirjaimilla A–Ö
+- Tietosuojaseloste
+- Offline-toiminta ilman internetyhteyttä

@@ -1,0 +1,31 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-suomalaisetpyhapaivat
+Exec=harbour-suomalaisetpyhapaivat
+Name=Suomalaiset Pyhäpäivät
+Name[fi]=Suomalaiset Pyhäpäivät
+Name[fi_FI]=Suomalaiset Pyhäpäivät
+Name[da]=Finske helligdage
+Name[da_DK]=Finske helligdage
+Name[de]=Finnische Feiertage
+Name[de_DE]=Finnische Feiertage
+Name[en]=Finnish Holidays
+Name[en_GB]=Finnish Holidays
+Name[es]=Festivos finlandeses
+Name[es_ES]=Festivos finlandeses
+Name[fr]=Jours fériés finlandais
+Name[fr_FR]=Jours fériés finlandais
+Name[it]=Festività finlandesi
+Name[it_IT]=Festività finlandesi
+Name[nb]=Finske helligdager
+Name[nb_NO]=Finske helligdager
+Name[sv]=Finländska helgdagar
+Name[sv_SE]=Finländska helgdagar
+Name[uk]=Святкові дні Фінляндії
+Name[uk_UA]=Святкові дні Фінляндії
+
+[X-Sailjail]
+OrganizationName=com.mikkotenhunen
+ApplicationName=SuomalaisetPyhapaivat
+Permissions=
